@@ -86,7 +86,7 @@ th {
 		<!-- https://developers.google.com/maps/documentation/embed/guide -->
 		<!-- 
 		<iframe id="mapview" width="600" height="450" frameborder="0" style="border: 0"
-			src="https://www.google.com/maps/embed/v1/view?key=AIzaSyB0nBOnQdvv4-j0Aqu9CDYbgK3f_TeFic0&center=32.8569,-117.2152&zoom=10&maptype=roadmap">
+			src="https://www.google.com/maps/embed/v1/view?key=<redacted>&center=32.8569,-117.2152&zoom=10&maptype=roadmap">
 		</iframe>
 		-->
 	</div>
